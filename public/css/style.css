@@ -1,0 +1,23 @@
+.margin{
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+.card-action:hover{
+    background: #04aa6d;
+    color: aliceblue;
+}
+.link{
+    color: red;
+}
+.link:hover{   
+    color: aliceblue;
+}
+.col{
+    color: red;
+}
